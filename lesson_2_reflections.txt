@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area can have things added to it and you can see the status of it
+Working directory is showing directly what you are working on and no cluter of what is being added to a staging area
+Repository just shows you what is held within it
+
