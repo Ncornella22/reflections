@@ -12,3 +12,5 @@ What are some situations when branches would be helpful in keeping your history 
 If you were making changed that were experimental and didnt want to use it on the actual version 
 If there were different language versions of the document 
 Branches let you easily checkout the differences without having to keep changing the master branch
+
+Added new content
